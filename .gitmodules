@@ -1,0 +1,6 @@
+[submodule "k"]
+	path = k
+	url = https://github.com/supercrabtree/k
+[submodule "Wallpapers"]
+	path = Wallpapers
+	url = https://github.com/SkullKiddo/Wallpapers
